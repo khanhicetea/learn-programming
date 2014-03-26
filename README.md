@@ -1,4 +1,4 @@
-learn-programming
+Learn Programming
 =================
 
 Learn Programming
